@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  nombre:string  = 'Germán';
-  apellido:string = 'Estrade'
+  nombre:string   = 'Germán';
+  apellido:string = 'Estrade';
+  genero:string   = 'maricon';
 }
